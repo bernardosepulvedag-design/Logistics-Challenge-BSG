@@ -51,8 +51,8 @@ data_generator.py
       │
       ├──► ml_models.py      →  walk_forward_validation()  (Módulo 2A · evaluación)
       │                      →  train_risk_models()         (Módulo 2B · evaluación)
-      │                      →  build_forecast_model()      (modelo producción RF)
-      │                      →  build_risk_classifier()     (modelo producción XGB)
+      │                      →  build_forecast_model()      (modelo de predicción RF)
+      │                      →  build_risk_classifier()     (modelo de predicción XGB)
       │
       └──► agent.py          →  consume modelos de ml_models.py
                              →  llama a solve_transport() de optimization.py
@@ -357,7 +357,7 @@ Cambiar la semilla altera los datos y los resultados, pero el sistema siempre pr
 **¿Por qué implementación propia del agente y no LangChain?**
 El razonamiento en supply chain es determinista por naturaleza. Una implementación propia garantiza reproducibilidad total (sin API keys, sin variabilidad de respuestas externas), trazabilidad completa del loop y cero dependencias externas de red.
 
-**¿Por qué Random Forest para el pronóstico de producción?**
+**¿Por qué Random Forest para el modelo de predicción?**
 Walk-forward validation en el Módulo 2 confirmó que RF supera a XGBoost en este dataset (MAE: 16.62 vs superior en RF). El agente usa el modelo validado, no uno reentrenado.
 
 **¿Por qué XGBoost para clasificación de riesgo?**
