@@ -232,8 +232,8 @@ Dependencias principales:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/bernardosepulvedag-design/Logistics-Challenge.BSG..git
-cd Logistics-Challenge.BSG.
+git clone https://github.com/bernardosepulvedag-design/Logistics-Challenge-BSG.git
+cd Logistics-Challenge-BSG
 
 # 2. Crear entorno virtual
 python -m venv .venv
