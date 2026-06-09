@@ -1,5 +1,8 @@
 # Supply Chain Intelligent System
 
+## Demo en video
+[![Ver demo en Loom](https://img.shields.io/badge/Ver%20Demo-Loom-625DF5?style=for-the-badge&logo=loom)](https://www.loom.com/share/92b8ea63b7d94b26801402fe4d50f852)
+
 Sistema computacional integrado que resuelve tres decisiones simultáneas en una red de logística industrial: **optimización de distribución**, **predicción de demanda y clasificación de riesgo**, y **monitoreo autónomo con alertas proactivas** mediante un agente inteligente.
 
 ---
