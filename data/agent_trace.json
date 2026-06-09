@@ -14,7 +14,7 @@
       "status": "OK"
     },
     "reasoning": "Polling inventory for warehouse W1. Fill-rate = 90.3% (OK).",
-    "timestamp": "2026-06-07T19:32:22.120216"
+    "timestamp": "2026-06-09T12:08:33.184452"
   },
   {
     "step": 2,
@@ -31,7 +31,7 @@
       "status": "OK"
     },
     "reasoning": "Polling inventory for warehouse W2. Fill-rate = 85.9% (OK).",
-    "timestamp": "2026-06-07T19:32:22.121189"
+    "timestamp": "2026-06-09T12:08:33.186210"
   },
   {
     "step": 3,
@@ -48,7 +48,7 @@
       "status": "OK"
     },
     "reasoning": "Polling inventory for warehouse W3. Fill-rate = 87.1% (OK).",
-    "timestamp": "2026-06-07T19:32:22.122065"
+    "timestamp": "2026-06-09T12:08:33.187647"
   },
   {
     "step": 4,
@@ -65,7 +65,7 @@
       "status": "OK"
     },
     "reasoning": "Polling inventory for warehouse W4. Fill-rate = 90.2% (OK).",
-    "timestamp": "2026-06-07T19:32:22.122876"
+    "timestamp": "2026-06-09T12:08:33.189623"
   },
   {
     "step": 5,
@@ -82,7 +82,7 @@
       "status": "OK"
     },
     "reasoning": "Polling inventory for warehouse W5. Fill-rate = 80.2% (OK).",
-    "timestamp": "2026-06-07T19:32:22.123660"
+    "timestamp": "2026-06-09T12:08:33.191419"
   },
   {
     "step": 6,
@@ -106,7 +106,7 @@
       "risk_label": "HIGH"
     },
     "reasoning": "4-week forecast for P1: 724.7 units. Risk = HIGH (p=94.5%).",
-    "timestamp": "2026-06-07T19:32:22.168256"
+    "timestamp": "2026-06-09T12:08:33.272519"
   },
   {
     "step": 7,
@@ -130,7 +130,7 @@
       "risk_label": "HIGH"
     },
     "reasoning": "4-week forecast for P2: 660.5 units. Risk = HIGH (p=86.9%).",
-    "timestamp": "2026-06-07T19:32:22.226601"
+    "timestamp": "2026-06-09T12:08:33.348978"
   },
   {
     "step": 8,
@@ -154,7 +154,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P3: 341.7 units. Risk = LOW (p=0.1%).",
-    "timestamp": "2026-06-07T19:32:22.268362"
+    "timestamp": "2026-06-09T12:08:33.429649"
   },
   {
     "step": 9,
@@ -178,7 +178,7 @@
       "risk_label": "HIGH"
     },
     "reasoning": "4-week forecast for P4: 760.2 units. Risk = HIGH (p=84.3%).",
-    "timestamp": "2026-06-07T19:32:22.310280"
+    "timestamp": "2026-06-09T12:08:33.508205"
   },
   {
     "step": 10,
@@ -202,7 +202,7 @@
       "risk_label": "HIGH"
     },
     "reasoning": "4-week forecast for P5: 536.4 units. Risk = HIGH (p=74.4%).",
-    "timestamp": "2026-06-07T19:32:22.367786"
+    "timestamp": "2026-06-09T12:08:33.584974"
   },
   {
     "step": 11,
@@ -226,7 +226,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P6: 370.4 units. Risk = LOW (p=0.1%).",
-    "timestamp": "2026-06-07T19:32:22.409851"
+    "timestamp": "2026-06-09T12:08:33.681790"
   },
   {
     "step": 12,
@@ -250,7 +250,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P7: 715.3 units. Risk = LOW (p=1.1%).",
-    "timestamp": "2026-06-07T19:32:22.450801"
+    "timestamp": "2026-06-09T12:08:33.758453"
   },
   {
     "step": 13,
@@ -274,7 +274,7 @@
       "risk_label": "HIGH"
     },
     "reasoning": "4-week forecast for P8: 765.0 units. Risk = HIGH (p=88.8%).",
-    "timestamp": "2026-06-07T19:32:22.491472"
+    "timestamp": "2026-06-09T12:08:33.853728"
   },
   {
     "step": 14,
@@ -298,7 +298,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P9: 630.2 units. Risk = LOW (p=0.5%).",
-    "timestamp": "2026-06-07T19:32:22.555869"
+    "timestamp": "2026-06-09T12:08:33.929738"
   },
   {
     "step": 15,
@@ -322,7 +322,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P10: 681.9 units. Risk = LOW (p=3.5%).",
-    "timestamp": "2026-06-07T19:32:22.598017"
+    "timestamp": "2026-06-09T12:08:34.009826"
   },
   {
     "step": 16,
@@ -346,7 +346,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P11: 755.1 units. Risk = LOW (p=8.4%).",
-    "timestamp": "2026-06-07T19:32:22.639580"
+    "timestamp": "2026-06-09T12:08:34.086254"
   },
   {
     "step": 17,
@@ -370,7 +370,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P12: 709.5 units. Risk = LOW (p=0.7%).",
-    "timestamp": "2026-06-07T19:32:22.680225"
+    "timestamp": "2026-06-09T12:08:34.178645"
   },
   {
     "step": 18,
@@ -394,7 +394,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P13: 729.0 units. Risk = LOW (p=1.1%).",
-    "timestamp": "2026-06-07T19:32:22.721195"
+    "timestamp": "2026-06-09T12:08:34.258257"
   },
   {
     "step": 19,
@@ -418,7 +418,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P14: 958.3 units. Risk = LOW (p=5.4%).",
-    "timestamp": "2026-06-07T19:32:22.762370"
+    "timestamp": "2026-06-09T12:08:34.335163"
   },
   {
     "step": 20,
@@ -442,7 +442,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P15: 841.3 units. Risk = LOW (p=10.0%).",
-    "timestamp": "2026-06-07T19:32:22.803337"
+    "timestamp": "2026-06-09T12:08:34.412518"
   },
   {
     "step": 21,
@@ -466,7 +466,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P16: 904.5 units. Risk = LOW (p=2.6%).",
-    "timestamp": "2026-06-07T19:32:22.845158"
+    "timestamp": "2026-06-09T12:08:34.507933"
   },
   {
     "step": 22,
@@ -490,7 +490,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P17: 533.4 units. Risk = LOW (p=22.8%).",
-    "timestamp": "2026-06-07T19:32:22.903334"
+    "timestamp": "2026-06-09T12:08:34.588715"
   },
   {
     "step": 23,
@@ -514,7 +514,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P18: 368.5 units. Risk = LOW (p=0.2%).",
-    "timestamp": "2026-06-07T19:32:22.944047"
+    "timestamp": "2026-06-09T12:08:34.667863"
   },
   {
     "step": 24,
@@ -538,7 +538,7 @@
       "risk_label": "LOW"
     },
     "reasoning": "4-week forecast for P19: 631.6 units. Risk = LOW (p=12.1%).",
-    "timestamp": "2026-06-07T19:32:22.985406"
+    "timestamp": "2026-06-09T12:08:34.745468"
   },
   {
     "step": 25,
@@ -562,7 +562,7 @@
       "risk_label": "HIGH"
     },
     "reasoning": "4-week forecast for P20: 951.3 units. Risk = HIGH (p=93.9%).",
-    "timestamp": "2026-06-07T19:32:23.028585"
+    "timestamp": "2026-06-09T12:08:34.822303"
   },
   {
     "step": 26,
@@ -581,7 +581,7 @@
       "critical_warehouses": []
     },
     "reasoning": "Detected 6 new high-risk point(s) [1, 2, 4, 5, 8, 20] and 0 critical warehouse(s) []. Triggering action phase.",
-    "timestamp": "2026-06-07T19:32:23.029196"
+    "timestamp": "2026-06-09T12:08:34.823368"
   },
   {
     "step": 27,
@@ -598,7 +598,7 @@
       "message": "Demand point P1 - projected 4-week demand: 724.7 units (risk probability: 94.5%). Immediate replenishment review recommended."
     },
     "reasoning": "P1 classified as CRITICAL (p=94.5%). Alert dispatched to client.",
-    "timestamp": "2026-06-07T19:32:23.029499"
+    "timestamp": "2026-06-09T12:08:34.823894"
   },
   {
     "step": 28,
@@ -615,7 +615,7 @@
       "message": "Demand point P2 - projected 4-week demand: 660.5 units (risk probability: 86.9%). Immediate replenishment review recommended."
     },
     "reasoning": "P2 classified as CRITICAL (p=86.9%). Alert dispatched to client.",
-    "timestamp": "2026-06-07T19:32:23.029925"
+    "timestamp": "2026-06-09T12:08:34.824688"
   },
   {
     "step": 29,
@@ -632,7 +632,7 @@
       "message": "Demand point P4 - projected 4-week demand: 760.2 units (risk probability: 84.3%). Immediate replenishment review recommended."
     },
     "reasoning": "P4 classified as CRITICAL (p=84.3%). Alert dispatched to client.",
-    "timestamp": "2026-06-07T19:32:23.030317"
+    "timestamp": "2026-06-09T12:08:34.825415"
   },
   {
     "step": 30,
@@ -649,7 +649,7 @@
       "message": "Demand point P5 - projected 4-week demand: 536.4 units (risk probability: 74.4%). Immediate replenishment review recommended."
     },
     "reasoning": "P5 classified as HIGH (p=74.4%). Alert dispatched to client.",
-    "timestamp": "2026-06-07T19:32:23.030695"
+    "timestamp": "2026-06-09T12:08:34.826112"
   },
   {
     "step": 31,
@@ -666,7 +666,7 @@
       "message": "Demand point P8 - projected 4-week demand: 765.0 units (risk probability: 88.8%). Immediate replenishment review recommended."
     },
     "reasoning": "P8 classified as CRITICAL (p=88.8%). Alert dispatched to client.",
-    "timestamp": "2026-06-07T19:32:23.031073"
+    "timestamp": "2026-06-09T12:08:34.826817"
   },
   {
     "step": 32,
@@ -683,7 +683,7 @@
       "message": "Demand point P20 - projected 4-week demand: 951.3 units (risk probability: 93.9%). Immediate replenishment review recommended."
     },
     "reasoning": "P20 classified as CRITICAL (p=93.9%). Alert dispatched to client.",
-    "timestamp": "2026-06-07T19:32:23.031431"
+    "timestamp": "2026-06-09T12:08:34.827528"
   },
   {
     "step": 33,
@@ -694,7 +694,7 @@
       "unattended_high_risk_points": []
     },
     "reasoning": "All high-risk points attended. Evaluating stop condition.",
-    "timestamp": "2026-06-07T19:32:23.031798"
+    "timestamp": "2026-06-09T12:08:34.828281"
   },
   {
     "step": 34,
@@ -713,6 +713,6 @@
       "total_alerts": 6
     },
     "reasoning": "Stop condition satisfied: every detected high-risk demand point has received a proactive alert and the optimization model has been re-run where required.",
-    "timestamp": "2026-06-07T19:32:23.032051"
+    "timestamp": "2026-06-09T12:08:34.828780"
   }
 ]
